@@ -19349,5 +19349,6 @@ cr.getObjectRefTable = function () { return [
 	cr.system_object.prototype.cnds.Every,
 	cr.system_object.prototype.cnds.CompareVar,
 	cr.system_object.prototype.acts.NextPrevLayout,
-	cr.system_object.prototype.acts.RestartLayout
+	cr.system_object.prototype.acts.RestartLayout,
+	cr.system_object.prototype.acts.GoToLayout
 ];};
